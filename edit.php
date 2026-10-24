@@ -1,6 +1,6 @@
 
 <?php
-require_once "koneksi.php";
+require_once "koneksi_hosting.php";
 
 function e($nilai) {
     return htmlspecialchars((string) $nilai, ENT_QUOTES, "UTF-8");

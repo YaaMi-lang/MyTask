@@ -1,6 +1,6 @@
 
 <?php
-require_once "koneksi.php";
+require_once "koneksi_hosting.php";
 
 $id = filter_input(INPUT_GET, "id", FILTER_VALIDATE_INT);
 
