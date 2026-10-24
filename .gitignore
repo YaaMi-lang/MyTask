@@ -1,0 +1,7 @@
+
+koneksi.php
+test_koneksi.php
+uploads/*
+!uploads/.gitkeep
+.env
+*.sql
